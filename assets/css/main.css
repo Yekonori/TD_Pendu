@@ -1,0 +1,24 @@
+body {
+    text-align:center;
+}
+
+#word p {
+    display:inline-block;
+    width:2%;
+    margin:1%;
+}
+
+.hidden_letter {
+    color:rgba(0, 0, 0, 0);
+    border-bottom:1px solid black;
+}
+
+.find_letter {
+    color:rgba(0, 0, 0, 1) !important;
+}
+
+#picture {
+    border:1px solid black;
+    margin:5% auto;
+    width:50%;
+}
